@@ -11,7 +11,7 @@ Provide a distributed, resilient and high-performance storage system on AWS for 
 - Database management system: AWS EC2 / MongoDB
 
 
-Authors :
+Authors:
 - Florian Lévêque
 - Vincent Partimbene
 - Louis Rose
