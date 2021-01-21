@@ -6,9 +6,9 @@ Provide a distributed, resilient and high-performance storage system on AWS for 
 
 - Raw data storage: AWS S3 / Apache Spark
 
-- Pre-processing: AWS EMR / Apache Spark
+- Pre-processing and queries: AWS EMR / Apache Spark
 
-- Database management system: AWS EC2 / Cassandra
+- Database management system: AWS EC2 / Apache Cassandra
 
 
 Authors:
