@@ -8,7 +8,7 @@ Provide a distributed, resilient and high-performance storage system on AWS for 
 
 - Pre-processing: AWS EMR / Apache Spark
 
-- Database management system: AWS EC2 / MongoDB
+- Database management system: AWS EC2 / Cassandra
 
 
 Authors:
